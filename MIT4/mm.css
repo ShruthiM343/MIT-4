@@ -1,0 +1,38 @@
+.header{
+    background-color: black;
+    color:white;
+}
+.content{
+    margin-left:130px;
+    input{
+        height:32px;
+        width:1200px;
+        border-radius: 5px;
+
+    }
+    button{
+        height:35px;
+        width:70px;
+        border-radius: 5px;
+        background-color: rgb(9, 118, 234);
+        color:white;
+    }
+    #n, #em{
+        
+        height:10px;
+        width:1200px;
+        padding-left: 20px;
+        padding-top: 13px;
+        
+    }
+    #del{
+        button{
+            height:35px;
+        width:70px;
+        border-radius: 5px;
+        background-color:white;
+        color:red;
+
+        }
+    }
+}
